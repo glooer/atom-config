@@ -1,0 +1,6 @@
+'packages': [
+  'highlight-selected'
+  'double-tag'
+  'emmet'
+  'remote-ftp'
+]
